@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Twin-Tail Signal</title>
+  <desc id="desc">A warm workshop beneath a bright blue sky, with two golden signal trails rising like tails.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#176BA0"/>
+      <stop offset="1" stop-color="#75D5F0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFD166" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFD166"/>
+      <stop offset="1" stop-color="#FFF1B8"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#sky)"/>
+  <circle cx="1035" cy="75" r="42" fill="#FFF1B8" opacity="0.95"/>
+  <g fill="#F7FCFF" opacity="0.86">
+    <path d="M90 92c14-29 57-31 74-5 25-18 63 1 60 31H66c-2-15 9-25 24-26Z"/>
+    <path d="M790 72c11-23 45-25 59-4 21-14 50 2 48 25H770c-1-12 8-20 20-21Z"/>
+  </g>
+
+  <path d="M0 260C182 218 338 279 510 247c178-33 340-5 690-35v108H0Z" fill="#244B63" opacity="0.76"/>
+  <path d="M0 281c185-25 364 14 542-7 230-27 404 15 658-4v50H0Z" fill="#183247"/>
+
+  <g transform="translate(115 153)">
+    <path d="M0 60 86 8l90 52v105H0Z" fill="#203B50" stroke="#BFEAF6" stroke-width="4"/>
+    <path d="m-15 61 101-61 105 61" fill="none" stroke="#F2FAFC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="25" y="84" width="48" height="81" rx="3" fill="#142B3C"/>
+    <rect x="100" y="78" width="49" height="42" rx="4" fill="#FFD166"/>
+    <path d="M124.5 78v42M100 99h49" stroke="#9A6325" stroke-width="4"/>
+    <circle cx="63" cy="126" r="4" fill="#FFD166"/>
+    <path d="M38 34h96" stroke="#F29C46" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <g fill="none" stroke="url(#glow)" stroke-linecap="round" filter="url(#soft-glow)">
+    <path d="M260 186C413 59 598 54 755 135c65 34 142 24 196-30" stroke-width="8"/>
+    <path d="M271 204C438 105 586 114 721 178c65 31 151 35 222-6" stroke-width="8"/>
+  </g>
+  <g fill="#FFF1B8">
+    <circle cx="951" cy="105" r="7"/>
+    <circle cx="943" cy="172" r="7"/>
+  </g>
+
+  <g font-family="ui-rounded, 'Trebuchet MS', sans-serif" fill="#F7FCFF">
+    <text x="580" y="246" font-size="42" font-weight="700" letter-spacing="2">TWIN-TAIL SIGNAL</text>
+    <text x="583" y="278" font-size="19" letter-spacing="3" opacity="0.9">COURAGE · CURIOSITY · KINDNESS</text>
+  </g>
+</svg>
