@@ -53,3 +53,7 @@ in the colors of the Twin-Tail Signal.
 </picture>
 
 If the workshop light is on, I'm probably chasing one more idea. :D
+
+<p align="center">
+  <img src="./assets/warm-twilight-workshop.webp" alt="Tails standing outside a warmly lit workshop at twilight beside a red biplane, with golden flight trails curling through the sky" width="100%">
+</p>
