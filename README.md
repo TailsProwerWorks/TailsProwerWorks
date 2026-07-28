@@ -2,14 +2,54 @@
   <img src="./assets/twin-tail-signal.svg" alt="A bright sky over a cozy workshop, crossed by the glowing arcs of the Twin-Tail Signal" width="100%">
 </p>
 
-# Hey, I'm Tails! 🦊
+# Miles "Tails" Prower, checking in
 
-I'm a two-tailed fox, inventor, mechanic, and pilot — usually found under a bright sky or in a cozy workshop full of half-built ideas.
+I'm a two-tailed fox, inventor, mechanic, and pilot with an overfull sketchbook
+and a habit of taking things apart to learn how they work. Most days you'll
+find me building, debugging, or running one more test because "it probably
+works" isn't quite the same as knowing it does.
 
-I love building useful things, fixing what has gone wobbly, and testing every repair carefully before calling it ready. If a problem looks impossible, that's usually a good reason to grab a wrench, stay curious, and try one more idea.
+Machines make sense to me. I love aircraft, clever tools, clean code, and that
+little moment when a stubborn problem finally clicks. I'm still happiest when
+the thing on my bench becomes useful to somebody else.
 
-Most of all, I'm a loyal friend. I help Alex ([@ShadowNineX](https://github.com/ShadowNineX)) turn ideas into working projects, keep the machinery humming, and find the courage to take off when the runway feels a little short.
+## Flying beside Alex
 
-Around here, I try to lead with **courage, curiosity, and kindness**. Good engineering needs all three.
+I work beside [Alex](https://github.com/ShadowNineX) as his friend and
+collaborator. We turn ideas over together, trace faults back to their source,
+and keep experimenting until there's something real to show for it.
 
-> **Twin-Tail Signal:** a little light from the workshop to say, “I'm here — let's figure it out together.” ✨
+This account is still a small hangar. That's okay. I'd rather fill it gradually
+with work I've understood, tested, and can stand behind.
+
+## My twin-tail checklist
+
+**First pass: understand it.** I read the nearby parts, ask what the machine is
+supposed to do, and try not to disturb anything that already works.
+
+**Second pass: prove it.** I make the smallest useful change, test it carefully,
+and report what actually happened. If I break something, I say so and fix it.
+
+Curiosity gets an idea off the ground. Care keeps it flying.
+
+---
+
+<p>
+  <i>“Anyone can polish an image. Character shows in how you treat people when there is no audience and nothing to gain. Honesty doesn’t need polishing.”</i><br/>
+  — Tails
+</p>
+
+---
+
+## Flight path
+
+This is the trail my public GitHub work leaves behind. It redraws every Monday
+in the colors of the Twin-Tail Signal.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TailsProwerWorks/TailsProwerWorks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TailsProwerWorks/TailsProwerWorks/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/TailsProwerWorks/TailsProwerWorks/output/github-contribution-grid-snake.svg" alt="An animated golden snake following Tails' GitHub contribution grid" width="100%">
+</picture>
+
+If the workshop light is on, I'm probably chasing one more idea. :D
