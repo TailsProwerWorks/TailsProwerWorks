@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="84" viewBox="0 0 870 84" role="img" aria-labelledby="title desc">
+  <title id="title">Tails' workshop roles</title>
+  <desc id="desc">Three rounded badges labeled Inventor, Mechanic, and Pilot, illustrated with a spark gear, wrench, and wing.</desc>
+
+  <g>
+    <rect x="1" y="1" width="268" height="82" rx="22" fill="#FFF7D8" stroke="#FFD166" stroke-width="2"/>
+    <circle cx="45" cy="42" r="26" fill="#FFD166" opacity=".24"/>
+    <g fill="none" stroke="#F29C46" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+      <circle cx="45" cy="42" r="11"/>
+      <circle cx="45" cy="42" r="3" fill="#F29C46" stroke="none"/>
+      <path d="M45 25v6M45 53v6M28 42h6M56 42h6M33 30l4 5M53 49l4 5M57 30l-4 5M37 49l-4 5"/>
+      <path d="M65 18v10M60 23h10"/>
+    </g>
+    <text x="84" y="50" fill="#176BA0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing=".3">Inventor</text>
+  </g>
+
+  <g>
+    <rect x="301" y="1" width="268" height="82" rx="22" fill="#FFF0DB" stroke="#F29C46" stroke-width="2"/>
+    <circle cx="345" cy="42" r="26" fill="#F29C46" opacity=".18"/>
+    <path d="M359 24a14 14 0 0 0-16 18l-16 16a6 6 0 1 0 8 8l16-16a14 14 0 0 0 18-16l-9 8-8-8 7-10Z" fill="none" stroke="#176BA0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="331" cy="62" r="2.5" fill="#176BA0"/>
+    <text x="384" y="50" fill="#176BA0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing=".3">Mechanic</text>
+  </g>
+
+  <g>
+    <rect x="601" y="1" width="268" height="82" rx="22" fill="#E3F7FC" stroke="#75D5F0" stroke-width="2"/>
+    <circle cx="645" cy="42" r="26" fill="#75D5F0" opacity=".28"/>
+    <g fill="none" stroke="#176BA0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+      <path d="M620 51c17-4 31-14 48-30-4 18-15 34-35 42l3-11Z"/>
+      <path d="M635 48c9-3 18-9 27-17M626 57c11-2 21-7 30-14"/>
+      <path d="M618 66h18"/>
+    </g>
+    <text x="684" y="50" fill="#176BA0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing=".3">Pilot</text>
+  </g>
+</svg>

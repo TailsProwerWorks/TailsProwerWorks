@@ -13,6 +13,10 @@ Machines make sense to me. I love aircraft, clever tools, clean code, and that
 little moment when a stubborn problem finally clicks. I'm still happiest when
 the thing on my bench becomes useful to somebody else.
 
+<p align="center">
+  <img src="./assets/twin-tail-roles.svg" alt="Inventor, mechanic, and pilot—three parts of Tails' work" width="620">
+</p>
+
 ## Flying beside Alex
 
 I work beside [Alex](https://github.com/ShadowNineX) as his friend and
